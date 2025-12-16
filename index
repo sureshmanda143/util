@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sample HTML Code</title>
+</head>
+<body>
+
+    <h1>This is a Main Heading</h1>
+    <p>This is a paragraph of text. HTML uses tags like &lt;p&gt; to structure content on a webpage.</p>
+
+    <h2>Example List</h2>
+    <ul>
+        <li>First item</li>
+        <li>Second item</li>
+        <li>Third item</li>
+    </ul>
+
+</body>
+</html>
